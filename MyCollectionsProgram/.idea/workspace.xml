@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56df1600-98e2-40c2-8f25-8f7d5af4961e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dj7dGO5QnNRhLxqGy690oJyHpH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+  </component>
+  <component name="RunManager" selected="Compound.Group2]">
+    <configuration name="Internet" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Internet" />
+      <module name="MyCollectionsProgram" />
+      <option name="PROGRAM_PARAMETERS" value="1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderAgeComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrderAgeComparator" />
+      <module name="MyCollectionsProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WriteToFile" />
+      <module name="MyCollectionsProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Group2]" type="CompoundRunConfigurationType">
+      <toRun name="Internet" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="Internet" type="Application" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Internet" />
+      <item itemvalue="Application.OrderAgeComparator" />
+      <item itemvalue="Application.WriteToFile" />
+      <item itemvalue="Compound.Group2]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WriteToFile" />
+        <item itemvalue="Application.OrderAgeComparator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56df1600-98e2-40c2-8f25-8f7d5af4961e" name="Default Changelist" comment="" />
+      <created>1592926733664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592926733664</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="164" width="816" height="729" key="#Intentions" timestamp="1593357379275">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="164" width="816" height="729" key="#Intentions/0.0.1680.1010@0.0.1680.1010" timestamp="1593357379275" />
+    <state x="294" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594158438674">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1594158438674" />
+    <state x="645" y="215" key="#com.intellij.ide.util.MemberChooser" timestamp="1593510966866">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="215" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1593510966866" />
+    <state x="570" y="253" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1592984092639">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="253" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1592984092639" />
+    <state x="620" y="261" width="440" height="487" key="FileChooserDialogImpl" timestamp="1594048942162">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="261" width="440" height="487" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1594048942162" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1594209441116">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1594209441116" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1594209441077">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1594209441077" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1594209440963">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1594209440963" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1594209441077">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1594209441077" />
+    <state x="536" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1594132290415">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="536" y="330" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1594132290415" />
+    <state x="483" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593034791048">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="483" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1593034791048" />
+    <state x="222" y="126" key="new project wizard" timestamp="1594048952600">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="222" y="126" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1594048952600" />
+    <state x="582" y="134" key="refactoring.ChangeSignatureDialog" timestamp="1593095009962">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="582" y="134" key="refactoring.ChangeSignatureDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1593095009962" />
+    <state x="496" y="233" width="672" height="677" key="run.anything.popup" timestamp="1593887212665">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="233" width="672" height="677" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1593887212665" />
+  </component>
+</project>

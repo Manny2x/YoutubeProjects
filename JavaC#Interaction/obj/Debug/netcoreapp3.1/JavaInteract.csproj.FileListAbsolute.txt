@@ -1,0 +1,4 @@
+C:\Users\Emman\OneDrive\Documents\GitHub\YoutubeProjects\JavaC#Interaction\obj\Debug\netcoreapp3.1\JavaInteract.csprojAssemblyReference.cache
+C:\Users\Emman\OneDrive\Documents\GitHub\YoutubeProjects\JavaC#Interaction\obj\Debug\netcoreapp3.1\JavaInteract.AssemblyInfoInputs.cache
+C:\Users\Emman\OneDrive\Documents\GitHub\YoutubeProjects\JavaC#Interaction\obj\Debug\netcoreapp3.1\JavaInteract.AssemblyInfo.cs
+C:\Users\Emman\OneDrive\Documents\GitHub\YoutubeProjects\JavaC#Interaction\obj\Debug\netcoreapp3.1\JavaInteract.csproj.CoreCompileInputs.cache
